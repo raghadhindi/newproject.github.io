@@ -1,0 +1,173 @@
+.sec1{
+    background-color: rgb(204, 204, 204);
+ 
+}
+.a1,.a2,.a3{
+    color: black;
+  float: right;
+  margin-left: 10px;
+  margin-top: 15px;
+    margin-right: 10px;
+    text-decoration:none;
+}
+.title{
+    color: black;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    text-decoration:none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style:unset;
+    
+
+}
+.photosec{
+   width: 100%;
+   margin-top: 10px;
+}
+.n1{
+    height: 50px;
+
+}
+.restPhoto{
+    float: left;
+    margin-left: 200px;
+    margin-top: 30px;
+    
+}
+.aboutRest{
+    float: right;
+    width: 300px;
+    margin-right: 350px;
+
+}
+.p1{
+text-decoration-style: solid;
+}
+.footerpage{
+    background-color: rgb(187, 187, 187);
+    width: 100%;
+    height: 100px;
+    
+}
+.footersection{
+    margin-top: 93%;
+    position: relative;
+  
+}
+.footerpage a{
+    
+    left: 100px;
+    height: 100px;
+    position: relative;
+    font-size:xx-large;
+    color: black;
+    margin-right: 10px;
+
+}
+.footerdiv{
+    position: absolute;
+    left: 35%;
+    top: 40%;
+    
+}
+.sectmenu{
+    margin-top: 600px;
+}
+ 
+.articalTitle{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(241, 188, 126);
+}
+.sectmenu article{
+    
+    
+    background-color: burlywood;
+}
+.ar1{
+    float: left;
+    padding-left: 40px;
+    width: 25%;
+    height: 50%;
+    padding-bottom: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.ar2{
+    float: right;
+    padding-left: 40px;
+    width: 25%;
+    height: 50%;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+    
+}
+.ar3{ float: right;
+    padding-left: 40px;
+    width: 25%;
+    height: 50%;
+    margin-right: 100px;
+    margin-top: 10px;
+
+}
+.ar4{ float: left;
+    padding-left: 40px;
+    width: 25%;
+    height: 50%;
+    padding-bottom: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-bottom: 60px;}
+.ar5{
+    float: right;
+    padding-left: 40px;
+    width: 25%;
+    height: 50%;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.ar6{  float: right;
+    float: right;
+    padding-left: 40px;
+    width: 25%;
+    height: 50%;
+    margin-right: 100px;
+    margin-top: 10px;
+    padding-bottom: 19px;
+    
+}
+.resSection{
+
+    margin-top: 59%;
+    
+    width: 100%;
+    position: relative;
+}
+.reserinfo{
+    color: rgb(214, 124, 89);
+    position: absolute;
+    left: 30%;
+    top: 30%;
+    font-size: large;
+    padding-top: 20px;
+    border-style:ridge;
+    margin-top: 50px;
+    width: 30%;
+    padding-left: 20px;
+    background-color: rgb(233, 235, 230);
+    border-radius: 8px;
+    box-shadow: lightblue;
+
+}
+.resertitle{
+    text-align: center;
+}
+.savebutton{
+    float:right;
+    margin-right: 50px;
+}
